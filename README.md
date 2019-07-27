@@ -1,0 +1,2 @@
+# Economic-indicators-impact-on-interest-in-jobless-claim-
+In this project, our main goal is to forecast future interest in US jobless claims using several major economic indicators. We selected the indicators that reflect the overall strength of the US economy, such as ​Jobless Claims (officially called Initial Claims (ICSA)), St. Louis Fed Financial Stress Index (STLFSI), S&amp;P 500 Index and Russell 2000 Index
